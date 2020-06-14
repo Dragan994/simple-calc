@@ -1,0 +1,11 @@
+body {
+  background-image: url(math-pic.jpg);
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #fff; }
+
+#tryAgain {
+  display: none; }
+
+#counterOut {
+  font-size: 60vh; }
